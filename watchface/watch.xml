@@ -1,0 +1,10 @@
+<Watch name="Arsenal Untouchables 03/04 " description="Klaus-kobec analogue watch to celebrate the Premiership victories of 2003-04." tags="12h,analog,date,digital,gyro" features="12h Time,Analog,Date,Digital,Gyroscope,Smooth Seconds" shape="R" author="soup-bowl" web_link="https://www.soupbowl.io" bg_color="333333" ucolor_default="ffffff" ind_loc="tc" ind_bg="Y" hotword_loc="tc" hotword_bg="Y">
+    <Layer type="image" x="0" y="0" gyro="0" rotation="0" skew_x="0" skew_y="0" opacity="100" alignment="cc" path=".img167.png" width="512" height="512" color="ffffff" display="b"/>
+    <Layer type="image" x="-4" y="-107" gyro="-1" rotation="0" skew_x="0" skew_y="0" opacity="100" alignment="cc" path=".img166.png" width="200" height="87" color="ffffff" display="d"/>
+    <Layer type="image" x="0" y="0" gyro="0" rotation="{drh}" skew_x="0" skew_y="0" opacity="100" alignment="cc" path=".img168.png" width="512" height="512" color="ffffff" display="bd"/>
+    <Layer type="image" x="0" y="0" gyro="0" rotation="{drm}" skew_x="0" skew_y="0" opacity="100" alignment="cc" path=".img169.png" width="512" height="512" color="ffffff" display="bd"/>
+    <Layer type="image" x="0" y="0" gyro="0" rotation="math.floor({drss})" skew_x="0" skew_y="0" opacity="100" alignment="cc" path=".img170.png" width="512" height="512" color="ffffff" display="b"/>
+    <Layer type="text" x="183" y="97" gyro="0" rotation="23" skew_x="0" skew_y="0" opacity="100" alignment="cc" text="{dd} - 1" text_size="20" anim_scale_x="100" anim_scale_y="100" font="Roboto-Regular" transform="n" color_dim="020202" color="020202" display="b"/>
+    <Layer type="text" x="139" y="152" gyro="0" rotation="49" skew_x="0" skew_y="0" opacity="100" alignment="cc" text="{dd} + 1" text_size="20" anim_scale_x="100" anim_scale_y="100" font="Roboto-Regular" transform="n" color_dim="000000" color="000000" display="b"/>
+    <Layer type="text" x="164" y="126" gyro="0" rotation="37" skew_x="0" skew_y="0" opacity="100" alignment="cc" text="{dd}" text_size="20" anim_scale_x="100" anim_scale_y="100" font="Roboto-Regular" transform="n" color_dim="000000" color="000000" display="b"/>
+</Watch>

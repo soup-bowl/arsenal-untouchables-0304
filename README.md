@@ -1,2 +1,2 @@
-# arsenal-untouchables-0304
-Watchmaker theme based upon the 2004 celebration watch.
+# Arsenal Untouchables 2003-2004 for WatchMaker
+WatchMaker face built to replicate the 2003-2004 victory celebration watch.
